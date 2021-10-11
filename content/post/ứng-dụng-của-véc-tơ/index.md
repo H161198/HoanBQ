@@ -1,6 +1,6 @@
 ---
 title: Ứng dụng của véc tơ
-date: 2021-10-11T00:28:22.532Z
+date: 2021-10-11T01:36:58.343Z
 draft: false
 featured: false
 image:

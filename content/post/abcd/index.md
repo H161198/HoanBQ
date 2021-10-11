@@ -24,10 +24,10 @@ Giả sử ba cơ sở sản xuất X, Y, Z cùng sản xuất 3 loại sản ph
 
 ## Bài 2
 Một cửa hàng bán 2 loại bánh AnNo và NgonMieng trong 3 ngày với số liệu như sau:
-| | Ngày 2 | Ngày 3     | Ngày 3 |
-| | :---        |    :----:   |          ---: |
-| Ăn No      | 55       | 48 | 39 |
-| Ngon Miệng   | 34 | 72 | 49 |
+|        | Ngày 1 | Ngày 2 | Ngày 3 |
+|--------|--------|--------|--------|
+| Ăn No | 55      | 48      | 39      |
+| Ngon Miệng | 34      | 72      | 49      |
 
 Biết rằng giá bán bánh AnNo là: 35,000/1 chiếc, bánh NgonMieng là: 41,000/1 chiếc. 
 - Hãy tính tiền thu được từ việc bán mỗi loại bánh trong mỗi ngày. 

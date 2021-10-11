@@ -23,11 +23,11 @@ Giả sử ba cơ sở sản xuất X, Y, Z cùng sản xuất 3 loại sản ph
 - Bạn hãy thử đưa ra một tình huống có thể sử dụng véc tơ để biểu diễn và xử lý số liệu.
 
 ## Bài 2
-Một cửa hàng bán 2 loại bánh AnNo và NgonMieng trong 3 ngày với số liệu như sau: 
-\begin{tabular}{| c | c | c | c |} \hline
+Một cửa hàng bán 2 loại bánh AnNo và NgonMieng trong 3 ngày với số liệu như sau:
+$$\begin{tabular}{| c | c | c | c |} \hline
 & Ngay 1 & Ngay 2 & Ngay 3 \\\\ \hline
 AnNo & 55 & 48 & 39 \\\\ \hline
-NgonMieng & 34 & 72 & 49 \\\\ \hline\end{tabular}
+NgonMieng & 34 & 72 & 49 \\\\ \hline\end{tabular}$$
 
 Biết rằng giá bán bánh AnNo là: 35,000/1 chiếc, bánh NgonMieng là: 41,000/1 chiếc. 
 - Hãy tính tiền thu được từ việc bán mỗi loại bánh trong mỗi ngày. 

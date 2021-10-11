@@ -24,6 +24,7 @@ Giả sử ba cơ sở sản xuất X, Y, Z cùng sản xuất 3 loại sản ph
 
 ## Bài 2
 Một cửa hàng bán 2 loại bánh AnNo và NgonMieng trong 3 ngày với số liệu như sau:
+$$\begin{tabular}{c c} a & b \\\\ c & d$$
 $$\begin{tabular}{| c | c | c | c |} \hline
 & Ngay 1 & Ngay 2 & Ngay 3 \\\\ \hline
 AnNo & 55 & 48 & 39 \\\\ \hline
